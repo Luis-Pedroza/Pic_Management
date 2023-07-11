@@ -11,3 +11,6 @@
 - "Enhance" tab enhances the images on the folder **(this function is still on development)**
 - Rename and Delete works with all kind of files
 - **configuration and help is still on development**
+
+## Downloads
+- [v1.0.0Alpha](https://github.com/Luis-Pedroza/Pic_Management/releases/tag/v1.0.0-Alpha)
