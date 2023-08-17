@@ -10,7 +10,7 @@
 
 # Command to create an exe.
 # pyinstaller --onefile --noconsole -n "Pic Management" Main.py
-
+# pylupdate5 prueba2.py -ts translations2_en.ts  
 
 import sys
 from PyQt5 import QtWidgets
